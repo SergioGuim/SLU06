@@ -2,3 +2,4 @@ toilet_paper
 butter
 bananas
 broccoli
+butter*2
